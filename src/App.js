@@ -92,7 +92,7 @@ function App() {
                                 We gonna provide the best hosting services that
                                 you never had before
                             </p>
-                            <h3 className="text-3xl text-center font-bold text-pink-600 mt-6 drop-shadow-md">
+                            <h3 className="text-3xl text-center font-bold text-purple-800 mt-6 drop-shadow-md">
                                 Yet,
                             </h3>
                             <div className="mx-auto w-[60%] my-10 p-10 backdrop-blur-3xl shadow-lg rounded-xl">
