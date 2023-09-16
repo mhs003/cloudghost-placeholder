@@ -108,9 +108,9 @@ function App() {
                                 the world
                             </h1>
                         </div>
-                        <hr className="border-slate-200 border-2 rounded-full w-[80%] mx-auto mt-20 shadow-md" />
+                        <hr className="border-slate-200 border-2 rounded-full w-[36%] mx-auto my-20 shadow-md" />
                         <div
-                            className="flex justify-center flex-col items-center gap-8 mt-20 px-24"
+                            className="flex justify-center flex-col items-center gap-8 px-24"
                             id="contact"
                         >
                             <h1 className="text-3xl text-center font-bold text-white drop-shadow-md">
