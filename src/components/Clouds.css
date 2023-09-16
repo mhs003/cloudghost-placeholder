@@ -1,0 +1,36 @@
+.cloud:first-child {
+    animation: move-cloud1 170s linear infinite;
+    -webkit-animation: move-cloud1 170s linear infinite;
+    background: url(/src/images/cloud2.png) center no-repeat;
+    top: 60%;
+    height: 200px;
+    width: 370px;
+    position: absolute;
+    left: -375px;
+}
+@keyframes move-cloud1 {
+    0% {
+        left: -375px;
+    }
+    100% {
+        left: 100%;
+    }
+}
+.cloud:last-child {
+    animation: move-cloud2 170s linear infinite;
+    -webkit-animation: move-cloud2 170s linear infinite;
+    background: url(/src/images/cloud2.png) center no-repeat;
+    top: 6%;
+    height: 200px;
+    width: 370px;
+    position: absolute;
+    right: -375px;
+}
+@keyframes move-cloud2 {
+    0% {
+        right: -375px;
+    }
+    100% {
+        right: 100%;
+    }
+}
