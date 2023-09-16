@@ -90,7 +90,7 @@ function App() {
                             </h1>
                             <p className="text-white drop-shadow-md font-bold text-[45px] text-center leading-tight">
                                 We gonna provide the best hosting services that
-                                you never had before
+                                you never experienced before
                             </p>
                             <h3 className="text-3xl text-center font-bold text-purple-800 mt-6 drop-shadow-md">
                                 Yet,
